@@ -253,10 +253,10 @@ Average Value: 43.28
 ## Project Structure
 
 Data-Analyzer-And-Transformer/
-│
-├── Data_Analyzer.py
-├── README.md
-└── output.png
+        |
+----->Data_Analyzer.py
+----->README.md
+----->output.png
     
 
 ## How to Run
@@ -299,37 +299,6 @@ Through this project, I learned and practiced:
 - Using Git and GitHub for project management
 
 
-## Data Flow & Program Architecture
-
-
-┌─────────────────────────────────────────┐
-               │             Program Start               │
-               └────────────────────┬────────────────────┘
-                                    │
-                                    ▼
-               ┌─────────────────────────────────────────┐
-               │        Initialize Empty Array           │
-               │               arry = []                 │
-               └────────────────────┬────────────────────┘
-                                    │
-                                    ▼
-┌────────────────────────────────────────────────────────────────────────┐
-│                        MAIN MENU LOOP (while True)                     │
-├───────┬───────────┬────────────┬─────────────┬───────────┬─────────────┤
-│   1   │     2     │     3      │      4      │     5     │      6      │
-▼       ▼           ▼            ▼             ▼           ▼             ▼
-Input   Data     Factorial    Filter Data    Sort Data  Dataset       Exit
-Data   Summary  (Recursion)    (Lambda)      (Asc/Desc) Statistics   Program
-│       │           │            │             │           │             │
-└───────┴───────────┴────────────┴─────────────┴───────────┴─────────────┤
-                                                                         │
-                                                                         ▼
-                                                               ┌──────────────────┐
-                                                               │  Terminate Loop  │
-                                                               └──────────────────┘
-
-
-
 
 ## Conclusion
 
@@ -337,6 +306,8 @@ The Data Analyzer And Transformer Program is a simple Python project designed to
 
 This project helped me strengthen my understanding of Python functions, lists, recursion, lambda functions, built-in functions, filtering, sorting, and GitHub project management.
 
+
+## Program Output
 
 ![Pogram_Output](output.png)
 
