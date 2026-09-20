@@ -310,9 +310,9 @@ This project helped me strengthen my understanding of Python functions, lists, r
 ## Program Output
 
 ![Pogram_Output](output.png)
-
-
-
+![Pogram_Output](output_1.png)
+![Pogram_Output](output_2.png)
+![Pogram_Output](output_3.png)
 
 
 
