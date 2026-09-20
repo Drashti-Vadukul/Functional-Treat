@@ -5,7 +5,7 @@
 BCA Student | Learning Python, AI, ML & Data Science
 
 
-# Data Analyzer And Transformer Program
+# Functional Treat Program
 
 ## Description
 
